@@ -1,0 +1,13 @@
+Buenos días, espero se encuentren bien, me gustaría reservar una cancha de Tenis para el siguiente horario
+
+Espacio solicitado: Cancha de tenis
+Nombre: {}
+Documento: {}
+Fecha: {}
+Horario: {}
+Asistentes: 2
+Facultad: Ciencias Exactas y Naturales
+Objetivo: Recreacional
+Teléfono: {}
+
+Muchas gracias.
